@@ -1,0 +1,42 @@
+
+.red {
+    position:fixed;
+    left: -10px;
+    top: -10px;
+    width: 400px;
+    height: 400px;
+    background-color: red;
+    
+
+
+  }
+
+.yellow {
+    width: 250px;
+    height: 250px;
+    background-color: yellow;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    
+  }
+
+.green {
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    position: fixed;
+    right: 50px;
+    bottom: 250px;
+
+  }
+
+.blue {
+    width: 110px;
+    height: 110px;
+    background-color: blue;
+    position: fixed;
+    left: -10px;
+    top: -10px;
+  }
+
